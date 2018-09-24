@@ -6,7 +6,7 @@ class String
   alias :逆 reverse
   alias :結合 concat
   alias :＜＜ <<
-  alias :削除 delte
+  alias :削除 delete
   alias :数 count
   alias :切断 slice
 end
